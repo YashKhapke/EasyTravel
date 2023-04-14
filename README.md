@@ -1,4 +1,4 @@
-# i_am_rich
+# Easy_travel
 
 A new Kotlin Project
 
